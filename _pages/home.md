@@ -58,6 +58,26 @@ feature_row:
     # url: "/devops/"
     # btn_class: "btn--primary"
     # btn_label: "Learn more"
+  - image_path: /assets/images/ai.jpg
+    alt: "AI"
+    title: "AI for Custodian"
+    excerpt: >
+      We use deep learning for minimizing the risk of exposing user assets in custodian to any potential
+      attack. The custodian service powered by our AI engine runs well with almost all assets in the 
+      safest cold storge.
+    # url: "/ai/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
+  - image_path: /assets/images/bigdata.jpg
+    alt: "Big Data"
+    title: "Blockchain Data Analytics"
+    excerpt: >
+      We devevelop infrastructure pipelines to perform blockchain-based data analytics, to detect hacks 
+      of digital wallets and money laundering. Our ultimate goal is to eliminate frauds using blockchains
+      and create a safe environtment for crypto. 
+    # url: "/bigdata/"
+    # btn_class: "btn--primary"
+    # btn_label: "Learn more"
 ---
 
 {% include feature_row %}
